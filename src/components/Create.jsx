@@ -65,7 +65,7 @@ const Create = (props) => {
                     message: "Task name must be at least 3 characters long",
                   },
                   maxLength: {
-                    value: 15,
+                    value: 25,
                     message: "Task name must be at most 15 characters long",
                   },
                   caseSensitive: {
